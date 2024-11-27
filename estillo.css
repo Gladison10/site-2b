@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+}
+button{
+  font-size: 30px;
+  background-color: black;
+  color: white;
+}
+img{
+  block-size: 300px;
+  border-radius: 15px;
+}
+h1{
+  font-family: arial;
+  font-size: 20px;
+  color: white;
+}
+table{
+  font-size: 30px;
+  background-color: black;
+  color: white;
+}
